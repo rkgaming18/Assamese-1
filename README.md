@@ -1,4 +1,6 @@
-<!DOCTYPE html><html lang="as"><head>
+<!DOCTYPE html>
+<html lang="as">
+  <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>অসমীয়া বৰ্ণমালা - অসীম Library</title>
