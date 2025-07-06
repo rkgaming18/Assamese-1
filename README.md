@@ -81,15 +81,15 @@
     <div class="grid">
       <div class="card"><h3>অ</h3><img src="https://i.ibb.co/FqKRbDp5/13111-Fortuna-F1.jpg" alt="অমিতা"><p>অমিতা</p></div>
       <div class="card"><h3>আ</h3><img src="https://i.ibb.co/1J7rSPNB/banganapalle-mango-benishan-banganappally-all-season-garden-plant-1-healthy-live-plant-kadiyam-nurse.jpg" alt="আম"><p>আম</p></div>
-      <div class="card"><h3>ই</h3><img src="images/ita.png" alt="ইটা"><p>ইটা</p></div>
-      <div class="card"><h3>ঈ</h3><img src="images/igol.png" alt="ঈগল"><p>ঈগল</p></div>
-      <div class="card"><h3>উ</h3><img src="images/utt.png" alt="উট"><p>উট</p></div>
-      <div class="card"><h3>ঊ</h3><img src="images/uguta.png" alt="উগুতা"><p>উগুতা</p></div>
-      <div class="card"><h3>ঋ</h3><img src="images/rishi.png" alt="ঋষি"><p>ঋষি</p></div>
-      <div class="card"><h3>এ</h3><img src="images/enu.png" alt="এঁদুল"><p>এঁদুল</p></div>
-      <div class="card"><h3>ঐ</h3><img src="images/aitor.png" alt="ঐৰাবত"><p>ঐৰাবত</p></div>
-      <div class="card"><h3>ও</h3><img src="images/olokobi.png" alt="ওলকবি"><p>ওলকবি</p></div>
-      <div class="card"><h3>ঔ</h3><img src="images/ou_tenga.png" alt="ঔ টেঙা"><p>ঔ টেঙা</p></div>
+      <div class="card"><h3>ই</h3><img src="https://i.ibb.co/whL6kkHM/9-x-4-x-3-inch-rectangular-fire-resistant-handmade-red-clay-bricks-000.jpg" alt="ইটা"><p>ইটা</p></div>
+      <div class="card"><h3>ঈ</h3><img src="https://i.ibb.co/Lzpg8SDt/Eagle-Fact-001.jpg" alt="ঈগল"><p>ঈগল</p></div>
+      <div class="card"><h3>উ</h3><img src="https://i.ibb.co/Fk183twT/250px-07-Camel-Profile-near-Silverton-NSW-07-07-2007.jpg" alt="উট"><p>উট</p></div>
+      <div class="card"><h3>ঊ</h3><img src="https://i.ibb.co/mpjxCs9/91-Lq-Nfg-Hx-RL.jpg" alt="উণ সুতা"><p>উণ সুতা</p></div>
+      <div class="card"><h3>ঋ</h3><img src="https://i.ibb.co/bjkY983y/rishi-clipart-12.png" alt="ঋষি"><p>ঋষি</p></div>
+      <div class="card"><h3>এ</h3><img src="https://i.ibb.co/hFSZYbRP/IDEA0002446.jpg" alt="এন্দুৰ"><p>এন্দুৰ</p></div>
+      <div class="card"><h3>ঐ</h3><img src="https://i.ibb.co/q2TqRXK/Elephant-2.jpg" alt="ঐৰাবত"><p>ঐৰাবত</p></div>
+      <div class="card"><h3>ও</h3><img src="https://i.ibb.co/27KmSJTx/b5a170ca-28ee-450b-9d8c-a038848ce8f6.webp" alt="ওলকবি"><p>ওলকবি</p></div>
+      <div class="card"><h3>ঔ</h3><img src="https://i.ibb.co/KzL5Njd0/image.jpg" alt="ঔ টেঙা"><p>ঔ টেঙা</p></div>
     </div>
   </section>
   <section>
