@@ -79,8 +79,8 @@
   <section>
     <h2 class="section-title">অসমীয়া স্বৰবৰ্ণ</h2>
     <div class="grid">
-      <div class="card"><h3>অ</h3><img src="images/amita.png" alt="অমিতা"><p>অমিতা</p></div>
-      <div class="card"><h3>আ</h3><img src="images/aam.png" alt="আম"><p>আম</p></div>
+      <div class="card"><h3>অ</h3><img src="https://i.ibb.co/FqKRbDp5/13111-Fortuna-F1.jpg" alt="অমিতা"><p>অমিতা</p></div>
+      <div class="card"><h3>আ</h3><img src="https://i.ibb.co/1J7rSPNB/banganapalle-mango-benishan-banganappally-all-season-garden-plant-1-healthy-live-plant-kadiyam-nurse.jpg" alt="আম"><p>আম</p></div>
       <div class="card"><h3>ই</h3><img src="images/ita.png" alt="ইটা"><p>ইটা</p></div>
       <div class="card"><h3>ঈ</h3><img src="images/igol.png" alt="ঈগল"><p>ঈগল</p></div>
       <div class="card"><h3>উ</h3><img src="images/utt.png" alt="উট"><p>উট</p></div>
